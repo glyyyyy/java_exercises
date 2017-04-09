@@ -2,7 +2,7 @@ package gjexer;
 
 public class pje1 {
 	public static void main (String args []){
-		int count = 1;
+		int count = 10;
 		int total = 0;
 		while (count < 1000){
 				if ((count %3 )==0){
